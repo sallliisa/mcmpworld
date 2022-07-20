@@ -1,0 +1,8 @@
+libraries/
+logs/
+versions/
+*.json
+*.txt
+*.py
+*.jar
+*.properties
